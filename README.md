@@ -1,5 +1,5 @@
 # RPi5-AI
-Scripts to get AI tools running on a Raspberry Pi 5
+Scripts to get AI tools running offline/locally on a Raspberry Pi 5.
 
 ## Step 1: Install Docker
 ```

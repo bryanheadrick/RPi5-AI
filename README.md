@@ -19,7 +19,7 @@ sudo chmod +x startOpenWebUI.sh
 ./startOpenWebUI.sh
 ```
 
-## Step 3: Run Stable Diffusion for CPU-only with Comfy-UI. 
+## Step 3: (Experimental) Run Stable Diffusion for CPU-only with Comfy-UI. 
 ```
 sudo chmod +x startStableDiffusion.sh
 ./startStableDiffusion.sh

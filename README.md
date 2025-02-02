@@ -10,7 +10,7 @@ sudo chmod +x installDocker.sh
 ## (Optional) Install Portainer to manage docker via web browser
 ```
 sudo chmod +x installPortainer.sh
-./installPortainer.sh
+./startPortainer.sh
 ```
 
 ## Step 2: Run OpenWebUI + Ollama
